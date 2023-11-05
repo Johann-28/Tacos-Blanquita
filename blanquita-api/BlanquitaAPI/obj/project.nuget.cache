@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9APfx1HE7voeNB713D0RDFjp2vi9ip+vs0yKgmI6zEeZoOFWvN4QoCL4T8NQJ1+2VGS7Cw7AZlMjSxfb4sU7rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johan\\OneDrive\\Escritorio\\Tacos-Blanquita\\blanquita-api\\BlanquitaAPI\\BlanquitaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
